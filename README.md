@@ -1,3 +1,3 @@
 # quimarche-vue-starter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-fny17p)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quimarche-vue-starter)
